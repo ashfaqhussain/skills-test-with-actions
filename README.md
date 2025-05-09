@@ -1,3 +1,5 @@
+[![CI](https://github.com/ashfaqhussain/skills-test-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/ashfaqhussain/skills-test-with-actions/actions/workflows/ci.yml)
+
 <header>
 
 <!--
